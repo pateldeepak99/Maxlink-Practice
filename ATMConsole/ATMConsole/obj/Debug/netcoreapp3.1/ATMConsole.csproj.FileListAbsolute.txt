@@ -1,0 +1,13 @@
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.csprojAssemblyReference.cache
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.AssemblyInfoInputs.cache
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.AssemblyInfo.cs
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.csproj.CoreCompileInputs.cache
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\bin\Debug\netcoreapp3.1\ATMConsole.exe
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\bin\Debug\netcoreapp3.1\ATMConsole.deps.json
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\bin\Debug\netcoreapp3.1\ATMConsole.runtimeconfig.json
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\bin\Debug\netcoreapp3.1\ATMConsole.runtimeconfig.dev.json
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\bin\Debug\netcoreapp3.1\ATMConsole.dll
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\bin\Debug\netcoreapp3.1\ATMConsole.pdb
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.dll
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.pdb
+D:\Developer\MAXLINK\ATMConsole\ATMConsole\obj\Debug\netcoreapp3.1\ATMConsole.genruntimeconfig.cache

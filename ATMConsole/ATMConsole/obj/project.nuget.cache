@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwJhWQPXov2JUWz4Krao5+RYhWs1y7aMPTGyf7dINV/3Gyi5+AIJo/dWNJdRi/dIciDyY5cW444SGtilEBBaJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\MAXLINK\\ATMConsole\\ATMConsole\\ATMConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
